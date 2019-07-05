@@ -1,0 +1,7 @@
+{
+  "h1": "一个简单的例子",
+  "change-locale": "改变语言",
+  "to-second-page": "到第二页",
+  "error-with-status": "一个 {{statusCode}}来自于服务端的错误",
+  "error-without-status": "一个来自于服务端的错误"
+}
